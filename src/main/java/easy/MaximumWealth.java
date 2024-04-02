@@ -4,7 +4,7 @@ public class MaximumWealth {
 
     public static int maximumWealth(int[][] accounts) {
 
-        int highestWealth = 0;
+        int highestWealth = Integer.MIN_VALUE;
         int m = accounts.length;
         int i = 0;
         int n = accounts[i].length;

@@ -11,3 +11,9 @@ V
 &src/test/java/easy/RunningSumTest.java,5/b/5b28084fd33493f7ff543fb771d3b75a61f0e331
 U
 %src/test/java/easy/MaximumWealth.java,b/1/b1b5ca156900a611f18476a03558751cff4083d2
+P
+ src/test/java/easy/FizzBuzz.java,c/1/c1474bb8b7cc84a68b698e4be151517f785a4aa0
+Y
+)src/test/java/easy/MaximumWealthTest.java,8/b/8b8b9d066493699a3a3c1b8636411abc6d70471f
+U
+%src/main/java/easy/MaximumWealth.java,a/9/a9cf86228d82a6ecd2252929f9a2d21c250a9349
